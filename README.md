@@ -31,7 +31,7 @@ Creative text generation using fine-tuned GPT-2 model.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/genai-projects.git
+git clone https://github.com/pranav-abhyankar/genai-projects.git
 ```
 
 2. Install dependencies
