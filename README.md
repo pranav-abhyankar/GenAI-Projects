@@ -6,18 +6,18 @@ A collection of Generative AI and Machine Learning projects built with Python an
 
 ### 🚗 Car Rental Analysis
 Data analysis and prediction model for car rental business insights.
-- **Tech**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
-- **Features**: Price prediction, demand analysis, data visualization
+- **Tech**: Python, Pandas, Scikit-learn, Matplotlib.
+- **Features**: Price prediction, demand analysis, data visualization.
 
 ### 💭 Sentiment Analysis
 NLP project for analyzing sentiment in text data.
-- **Tech**: Python, NLTK, TextBlob, Scikit-learn
-- **Features**: Multi-class sentiment classification, emotion detection
+- **Tech**: Python, NLTK, TextBlob, Scikit-learn.
+- **Features**: Multi-class sentiment classification, emotion detection.
 
 ### 📝 Poetry AI using GPT-2
 Creative text generation using fine-tuned GPT-2 model.
-- **Tech**: Python, Transformers, GPT-2, Hugging Face
-- **Features**: Poetry generation, creative writing assistance
+- **Tech**: Python, Transformers, GPT-2, Hugging Face.
+- **Features**: Poetry generation, creative writing assistance.
 
 ## 🛠️ Technologies
 
