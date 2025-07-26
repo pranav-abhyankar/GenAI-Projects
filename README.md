@@ -6,7 +6,7 @@ A collection of Generative AI and Machine Learning projects built with Python an
 
 ### 🚗 Car Rental Analysis
 Data analysis and prediction model for car rental business insights.
-- **Tech**: Python, Pandas, Scikit-learn, Matplotlib
+- **Tech**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 - **Features**: Price prediction, demand analysis, data visualization
 
 ### 💭 Sentiment Analysis
